@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-# Social Media
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reema-alhawas-9620b22a1)
-
-
 # 💻 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
