@@ -1,6 +1,5 @@
-##  Hi there, I'm Reema Alhawas 
-
-
+##  
+CS Student | Interested in Artificial Intelligence and Distributed Systems 
 <!--
 **Reemaalhawas/ReemaAlhawas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
