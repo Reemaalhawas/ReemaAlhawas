@@ -1,5 +1,5 @@
 ##  
-CS Student | Interested in Artificial Intelligence and Distributed Systems 
+Computer Science Student at Queen Mary University of London | Passionate About Generative AI & Designing Scalable Data-Intensive Systems 
 <!--
 **Reemaalhawas/ReemaAlhawas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
